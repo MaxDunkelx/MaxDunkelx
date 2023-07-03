@@ -22,7 +22,7 @@ I am actively seeking opportunities to collaborate with like-minded individuals 
 📫 Let's Connect
 I am always excited to connect with fellow developers, industry professionals, and enthusiasts. Feel free to reach out to me through the following channels:
 
-Email: MaxDunkel.inc@gmail.com
+Email: MaximDunkelx@gmail.com
 GitHub: github.com/MaxDunkelx
 LinkedIn: linkedin.com/in/max-dunkel-6096b3281/
 Let's embark on an incredible journey together, turning ideas into reality and making a lasting impact in the world of technology.
