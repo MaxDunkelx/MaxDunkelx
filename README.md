@@ -3,8 +3,6 @@
 Computer Science Graduate | Sailing Expert | Pilates Instructor | Game Developing Enthusiast
 Welcome to my GitHub profile! I'm a dedicated and passionate individual on the verge of completing my Bachelor's degree in Computer Science. 
 
-My passion lies in game development, particularly using  C++. I love building immersive and captivating games that push the boundaries of creativity and innovation. Through my projects, I aim to create unique experiences that transport players into exciting virtual worlds.
-
 ✨ Skills and Expertise
 Proficient in C++, Java, Python, and other programming languages.
 Strong knowledge of object-oriented programming (OOP) principles and design patterns.
