@@ -1,9 +1,9 @@
 
 👋 Hi, I'm Max Dunkel
 Computer Science Graduate | Sailing Expert | Pilates Instructor | Game Developing Enthusiast
-Welcome to my GitHub profile! I'm a dedicated and passionate individual on the verge of completing my Bachelor's degree in Computer Science. With a keen interest in sailing, I enjoy exploring the vast oceans and harnessing the power of the wind. As a Pilates instructor, I believe in the importance of balance and strength, both in body and mind.
+Welcome to my GitHub profile! I'm a dedicated and passionate individual on the verge of completing my Bachelor's degree in Computer Science. 
 
-My true passion lies in game development, particularly using the language  C++. I love building immersive and captivating games that push the boundaries of creativity and innovation. Through my projects, I aim to create unique experiences that transport players into exciting virtual worlds.
+My passion lies in game development, particularly using  C++. I love building immersive and captivating games that push the boundaries of creativity and innovation. Through my projects, I aim to create unique experiences that transport players into exciting virtual worlds.
 
 ✨ Skills and Expertise
 Proficient in C++, Java, Python, and other programming languages.
