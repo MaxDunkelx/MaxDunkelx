@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Max Dunkel
+👋 Hi. I'm Max Dunkel
 Computer Science Graduate | Game Developing Enthusiast.
 Welcome to my GitHub profile! I'm a dedicated and passionate individual on the verge of completing my Bachelor's degree in Computer Science. 
 
