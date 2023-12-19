@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm a dedicated and passionate individual on the v
 Proficient in C++, Java, Python, and other programming languages.
 Strong knowledge of object-oriented programming (OOP) principles and design patterns.
 Experience in game development using frameworks such as SFML.
-Familiarity with web development technologies including HTML, CSS, and JavaScript.
 Database management using SQL and MySQL.
 Versatile in UNIX, Ruby.
 Excellent problem-solving abilities with meticulous attention to detail.
