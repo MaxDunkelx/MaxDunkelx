@@ -1,29 +1,98 @@
+Maxim Dunkel
 
-👋 Hi. I'm Max Dunkel
-Computer Science Graduate | Game Developing Enthusiast.
-Welcome to my GitHub profile! I'm a dedicated and passionate individual on the verge of completing my Bachelor's degree in Computer Science. 
+Computer Science Graduate | Game Development Enthusiast
 
-✨ Skills and Expertise
-Proficient in C++, Java, Python, and other programming languages.
-Strong knowledge of object-oriented programming (OOP) principles and design patterns.
-Experience in game development using frameworks such as SFML.
-Database management using SQL and MySQL.
-Versatile in UNIX, Ruby.
-Excellent problem-solving abilities with meticulous attention to detail.
-🌱 Continuous Learning
-As a lifelong learner, I strive to stay up-to-date with emerging technologies and trends in the field of computer science. I am dedicated to expanding my knowledge and skills through continuous learning and exploring new horizons.
+Welcome to my GitHub profile! I am a dedicated and passionate software developer with a proven track record of solving complex data challenges and delivering impactful solutions. With a Bachelor's degree in Computer Science and a love for exploring new technologies, I am eager to contribute to innovative projects and make a lasting impact in the field of technology.
 
-💼 Collaboration Opportunities
-I am actively seeking opportunities to collaborate with like-minded individuals who share a passion for pursuing their dreams. Whether it's game development, software engineering, or any other exciting project, I'm open to collaborations that foster creativity, growth, and achievement.
+Objective
 
-📫 Let's Connect
+Innovative and results-driven software developer passionate about leveraging programming expertise and cutting-edge technologies to build scalable, user-centric applications. Seeking a dynamic role to contribute to ambitious projects and grow professionally within a forward-thinking team.
+
+Skills and Expertise
+
+Programming Languages:
+
+Proficient: Python, C++, C#, JavaScript
+
+Intermediate: Java, C
+
+Game Development:
+
+Experience with frameworks such as SFML
+
+Web Development & Frameworks:
+
+React, Node.js, Spring MVC, Rest APIs
+
+Database Management:
+
+Proficient in SQL, MySQL, MongoDB
+
+Tools & Technologies:
+
+Docker, Selenium, Wireshark, IntelliJ IDEA, VS Code, Visual Studio, Eclipse
+
+Object-Oriented Programming:
+
+Strong knowledge of OOP principles and design patterns
+
+Problem-Solving:
+
+Excellent analytical skills with meticulous attention to detail
+
+Languages:
+
+English: Native
+
+Russian: Native
+
+Hebrew: Native
+
+Experience
+
+Software Development Intern
+
+Kinor Ltd. (2024 – Present)
+
+Delivered a high-stakes data gathering and processing project for a major U.S. client under NDA, achieving 50% data acquisition and securing critical funding.
+
+Designed and implemented a data processing platform using C# and Python, integrating advanced NLP techniques to extract actionable insights.
+
+Optimized proprietary frameworks to process diverse data sources, reducing processing time by 30%.
+
+Education
+
+B.Sc. in Computer Science
+
+Hadassah Academic College (2019–2023)
+
+Military Service
+
+Nahal Brigade (2014–2018)
+
+Served as an infantryman, commander, and officer (Officer Academy Graduate).
+
+Gained valuable experience in leadership, team coordination, and high-pressure decision-making.
+
+Continuous Learning
+
+As a lifelong learner, I strive to stay up-to-date with emerging technologies and trends in computer science. I am dedicated to expanding my knowledge and exploring new horizons to remain at the forefront of innovation.
+
+Collaboration Opportunities
+
+I am actively seeking opportunities to collaborate with like-minded individuals who share a passion for creating innovative solutions. Whether it’s game development, software engineering, or other exciting projects, I am open to collaborations that foster creativity, growth, and achievement.
+
+Let's Connect
+
 I am always excited to connect with fellow developers, industry professionals, and enthusiasts. Feel free to reach out to me through the following channels:
 
 Email: MaximDunkelx@gmail.com
+
 GitHub: github.com/MaxDunkelx
+
 LinkedIn: linkedin.com/in/max-dunkel-6096b3281/
-Let's embark on an incredible journey together, turning ideas into reality and making a lasting impact in the world of technology.
-<!---
-MaxDunkelx/MaxDunkelx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Phone: 054-3073383
+
+Let’s turn ideas into reality and create something incredible together!
+
