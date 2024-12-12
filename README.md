@@ -88,11 +88,7 @@ I am always excited to connect with fellow developers, industry professionals, a
 
 Email: MaximDunkelx@gmail.com
 
-GitHub: github.com/MaxDunkelx
-
 LinkedIn: linkedin.com/in/max-dunkel-6096b3281/
-
-Phone: 054-3073383
 
 Let’s turn ideas into reality and create something incredible together!
 
