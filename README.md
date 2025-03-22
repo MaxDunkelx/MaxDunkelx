@@ -1,6 +1,7 @@
 # Maxim Dunkel
 
-![Banner](https://via.placeholder.com/1200x300.png?text=Maxim+Dunkel)  
+![Banner](https://via.placeholder.com/1200x300/000000/ffffff?text=Maxim+Dunkel)
+
 *Computer Science Graduate | Game Development Enthusiast*
 
 Welcome to my GitHub profile! I am a dedicated software developer with a passion for solving complex challenges and delivering innovative solutions. With a Bachelor's degree in Computer Science and hands-on experience in game development, web technologies, and data processing, I am eager to collaborate on cutting-edge projects.
