@@ -1,6 +1,5 @@
 # Maxim Dunkel
 
-![Banner](https://via.placeholder.com/1200x300/000000/ffffff?text=Maxim+Dunkel)
 
 *Computer Science Graduate | Game Development Enthusiast*
 
