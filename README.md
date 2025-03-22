@@ -1,94 +1,104 @@
-Maxim Dunkel
+# Maxim Dunkel
 
-Computer Science Graduate | Game Development Enthusiast
+![Banner](https://via.placeholder.com/1200x300.png?text=Maxim+Dunkel)  
+*Computer Science Graduate | Game Development Enthusiast*
 
-Welcome to my GitHub profile! I am a dedicated and passionate software developer with a proven track record of solving complex data challenges and delivering impactful solutions. With a Bachelor's degree in Computer Science and a love for exploring new technologies, I am eager to contribute to innovative projects and make a lasting impact in the field of technology.
+Welcome to my GitHub profile! I am a dedicated software developer with a passion for solving complex challenges and delivering innovative solutions. With a Bachelor's degree in Computer Science and hands-on experience in game development, web technologies, and data processing, I am eager to collaborate on cutting-edge projects.
 
-Objective
+---
 
-Innovative and results-driven software developer passionate about leveraging programming expertise and cutting-edge technologies to build scalable, user-centric applications. Seeking a dynamic role to contribute to ambitious projects and grow professionally within a forward-thinking team.
+## 🚀 Objective
 
-Skills and Expertise
+I am an innovative, results-driven developer committed to leveraging technology to build scalable, user-centric applications. I seek to join a forward-thinking team where creativity, technical excellence, and collaboration drive success.
 
-Programming Languages:
+---
 
-Proficient: Python, C++, C#, JavaScript
+## 🛠️ Skills and Expertise
 
-Intermediate: Java, C
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-Game Development:
+### Game Development
+- **Frameworks:** SFML  
+- Passion for building immersive game experiences
 
-Experience with frameworks such as SFML
+### Web Development & Frameworks
+- **React, Node.js, Spring MVC, REST APIs**
 
-Web Development & Frameworks:
+### Database Management
+- **SQL, MySQL, MongoDB**
 
-React, Node.js, Spring MVC, Rest APIs
+### Tools & Technologies
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+- IntelliJ IDEA, VS Code, Visual Studio, Eclipse
 
-Database Management:
+### Software Development Principles
+- Strong foundation in **Object-Oriented Programming** and design patterns  
+- Excellent problem-solving and analytical skills
 
-Proficient in SQL, MySQL, MongoDB
+### Languages
+- **English:** Native  
+- **Russian:** Native  
+- **Hebrew:** Native
 
-Tools & Technologies:
+---
 
-Docker, Selenium, Wireshark, IntelliJ IDEA, VS Code, Visual Studio, Eclipse
+## 💼 Experience
 
-Object-Oriented Programming:
+### Software Development Intern  
+**Kinor Ltd. (2024 – Present)**  
+- Delivered a high-stakes data gathering and processing project for a major U.S. client under NDA.
+- Designed and implemented a data processing platform using **C#** and **Python**, incorporating advanced NLP techniques.
+- Optimized frameworks to process diverse data sources, reducing processing time by 30%.
 
-Strong knowledge of OOP principles and design patterns
+---
 
-Problem-Solving:
+## 🎓 Education
 
-Excellent analytical skills with meticulous attention to detail
+### B.Sc. in Computer Science  
+**Hadassah Academic College (2019–2023)**
 
-Languages:
+---
 
-English: Native
+## 🪖 Military Service
 
-Russian: Native
+### Nahal Brigade (2014–2018)  
+- Served as an infantryman, commander, and officer (Officer Academy Graduate).
+- Developed leadership, team coordination, and decision-making skills under high-pressure situations.
 
-Hebrew: Native
+---
 
-Experience
+## 📚 Continuous Learning
 
-Software Development Intern
+I am a lifelong learner who keeps up with the latest trends in technology. I regularly explore new tools and techniques to ensure my skills remain at the cutting edge of innovation.
 
-Kinor Ltd. (2024 – Present)
+---
 
-Delivered a high-stakes data gathering and processing project for a major U.S. client under NDA, achieving 50% data acquisition and securing critical funding.
+## 🤝 Collaboration Opportunities
 
-Designed and implemented a data processing platform using C# and Python, integrating advanced NLP techniques to extract actionable insights.
+I am actively seeking collaboration with like-minded professionals. Whether it’s game development, full-stack software engineering, or innovative data processing projects, I welcome the opportunity to create something extraordinary together.
 
-Optimized proprietary frameworks to process diverse data sources, reducing processing time by 30%.
+---
 
-Education
+## 📫 Let's Connect
 
-B.Sc. in Computer Science
+- **Email:** [MaximDunkelx@gmail.com](mailto:MaximDunkelx@gmail.com)
+- **LinkedIn:** [Max Dunkel](https://linkedin.com/in/max-dunkel-6096b3281/)
+- **GitHub:** [@MaxDunkelx](https://github.com/MaxDunkelx)
 
-Hadassah Academic College (2019–2023)
+---
 
-Military Service
+### 🌟 Fun Facts
+- **Hobbies:** Game development, indie game jams, tech meetups  
+- **Favorite Quote:** *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
-Nahal Brigade (2014–2018)
+---
 
-Served as an infantryman, commander, and officer (Officer Academy Graduate).
-
-Gained valuable experience in leadership, team coordination, and high-pressure decision-making.
-
-Continuous Learning
-
-As a lifelong learner, I strive to stay up-to-date with emerging technologies and trends in computer science. I am dedicated to expanding my knowledge and exploring new horizons to remain at the forefront of innovation.
-
-Collaboration Opportunities
-
-I am actively seeking opportunities to collaborate with like-minded individuals who share a passion for creating innovative solutions. Whether it’s game development, software engineering, or other exciting projects, I am open to collaborations that foster creativity, growth, and achievement.
-
-Let's Connect
-
-I am always excited to connect with fellow developers, industry professionals, and enthusiasts. Feel free to reach out to me through the following channels:
-
-Email: MaximDunkelx@gmail.com
-
-LinkedIn: linkedin.com/in/max-dunkel-6096b3281/
-
-Let’s turn ideas into reality and create something incredible together!
+> *Let's turn ideas into reality and create something incredible together!*
 
